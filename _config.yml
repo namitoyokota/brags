@@ -1,0 +1,6 @@
+# Jekyll Configuration
+name: Namito's Brags
+description: A collection of my brag documents.
+url: "https://brags.namito.wiki"
+markdown: kramdown
+highlighter: rouge
