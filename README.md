@@ -28,6 +28,10 @@ Read more [here](hexagon/create-incident.md).
 
 ### Platform Packages
 
+### Localization
+
+### Changelogs
+
 ### Recovery Manager
 
 ### Priority Manager
