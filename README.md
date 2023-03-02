@@ -3,6 +3,37 @@ A collection of brag documents.
 
 ## Venminder
 
+### PDF Report Generation
+
+### Event Service
+
+### Autosave
+
+### Frontend Project Refactor
+[Read More](venminder/frontend-project-refactor.md)
+
+### Minor Stories
+- Drag and drop reordering
+- Moment.js to date-fns
+- Font Awesome Upgrade
+- Search templates/themes table
+- Added lint rules
+
 ## Hexagon
-### [Create Incident](hexagon/create-incident.md)
-Description of the project goes here.
+### Line Shape
+
+### Create Incident
+Description goes here.
+Read more [here](hexagon/create-incident.md).
+
+### Platform Packages
+
+### Recovery Manager
+
+### Priority Manager
+
+### Icon Manager
+
+### Hyperlink
+
+### Hierarchical Feature Flags
