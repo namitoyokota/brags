@@ -12,6 +12,8 @@ A collection of brag documents.
 ### Frontend Project Refactor
 [Read More](venminder/frontend-project-refactor.md)
 
+### Learning Aurelia
+
 ### Minor Stories
 - Drag and drop reordering
 - Moment.js to date-fns
